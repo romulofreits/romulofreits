@@ -1,6 +1,7 @@
 ### Olá, me chamo Romulo Freitas👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulofreits&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romulofreits&layout=compact&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
