@@ -1,6 +1,6 @@
 ### Olá, me chamo Romulo Freitas👋
 ### Bem vindo ao meu Porfólio! 📚 
-[Meu Currículo](https://drive.google.com/file/d/1igLGAWE07sUK9LFfIBLPei2xNNIuDYvY/view?usp=drive_link)
+[Meu Currículo](https://flowcv.com/resume/spn0oq9s3o)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
