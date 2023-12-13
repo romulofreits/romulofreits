@@ -1,6 +1,11 @@
 ### Olá, me chamo Romulo Freitas👋
 ### Bem vindo ao meu Porfólio! 📚 
+
+##
 [Meu Currículo](https://flowcv.com/resume/spn0oq9s3o)
+
+[Rpubs](https://rpubs.com/romulofreits)
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
