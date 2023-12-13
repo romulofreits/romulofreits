@@ -6,6 +6,8 @@
 
 [Rpubs](https://rpubs.com/romulofreits)
 
+[Workspace Power BI](https://www.microsoft365.com/m365apps/1c4340de-2a85-40e5-8eb0-4f295368978b?auth=2&home=1)
+
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
