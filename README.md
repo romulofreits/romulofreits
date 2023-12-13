@@ -1,4 +1,13 @@
 ### Olá, me chamo Romulo Freitas👋
+
+<div> 
+  <a href="https://www.youtube.com/channel/UCJIcup-gkqveGngIWsAOQIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/romulofreits" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:romulofrts0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/romulofreits/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://linktr.ee/romulofreits"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" taget="_blank"></a>
+</div>
+
 ### Bem vindo ao meu Porfólio! 📚 
 Durante dois semestres tive a felicidade de ser membro da empresa júnior (GAUSS) do curso de Estatística da UFC. Nesse período consegui desenvolver diversas habilidades, como comunicação, trabalho em equipe, capacidades analíticas, entre outras. Além disso, participei de consultorias estatísticas e de projetos nos quais pude colocar em prática os meus conhecimentos adquiridos na graduação. 
 
@@ -20,12 +29,15 @@ Sou um grande entusiasta da estatística, tanto da parte teórica, quanto da par
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCJIcup-gkqveGngIWsAOQIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/romulofreits" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:romulofrts0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/romulofreits/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://linktr.ee/romulofreits"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" taget="_blank"></a>
-</div>
+##
+
+## 🌐 Áreas de interesse
+
+* Inferência Estatística
+* Modelagem Estatística
+* Análise de Sobrevivência
+* Estatística Computacional
+* Visualização de Dados
+* Ciência de Dados
+
+
