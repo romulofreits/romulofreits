@@ -15,7 +15,7 @@ Atualmente, sou bolsista do Programa de Educação Tutorial [(PET) Estatística 
 
 Sou um grande entusiasta da estatística, tanto da parte teórica, quanto da parte prática. Além das disciplinas da graduação, como probabilidade, inferência e regressão, estou me dedicando à estudar e me aperfeiçoar em ferramentas como Planilhas Eletrônicas, SQL, Power BI, Python e R.
 ##
-[Meu Currículo](Romulo-Barros-de-Freitas-FlowCV-Resume-20231224.pdf)
+[Meu Currículo](https://flowcv.com/resume/spn0oq9s3o)
 
 [Rpubs](https://rpubs.com/romulofreits)
 
