@@ -1,5 +1,11 @@
 # Olá, me chamo Romulo Freitas👋
 
+Durante dois semestres tive a felicidade de ser membro da empresa júnior (GAUSS) do curso de Estatística da UFC. Nesse período consegui desenvolver diversas habilidades, como comunicação, trabalho em equipe, capacidades analíticas, entre outras. Além disso, participei de consultorias estatísticas e de projetos nos quais pude colocar em prática os meus conhecimentos adquiridos na graduação. 
+
+Atualmente, sou bolsista do Programa de Educação Tutorial [(PET) Estatística UFC](https://sites.google.com/view/petestatisticaufc/), o qual é centrado em ensino, pesquisa e extensão. Como bolsista, ministrei oficinas de R e minicursos de Análise Exploratória de Dados com Python direcionados à comunidade acadêmica, além de pesquisa acadêmica sobre Análise de Sobrevivência.
+
+Sou um grande entusiasta da estatística, tanto da parte teórica, quanto da parte prática. Além das disciplinas da graduação, como probabilidade, inferência e regressão, estou me dedicando à estudar e me aperfeiçoar em ferramentas como Planilhas Eletrônicas, SQL, Power BI, Python e R.
+##
 <div> 
   <a href="https://www.youtube.com/channel/UCJIcup-gkqveGngIWsAOQIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/romulofreits" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -7,12 +13,6 @@
   <a href="https://www.linkedin.com/in/romulofreits/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-Durante dois semestres tive a felicidade de ser membro da empresa júnior (GAUSS) do curso de Estatística da UFC. Nesse período consegui desenvolver diversas habilidades, como comunicação, trabalho em equipe, capacidades analíticas, entre outras. Além disso, participei de consultorias estatísticas e de projetos nos quais pude colocar em prática os meus conhecimentos adquiridos na graduação. 
-
-Atualmente, sou bolsista do Programa de Educação Tutorial [(PET) Estatística UFC](https://sites.google.com/view/petestatisticaufc/), o qual é centrado em ensino, pesquisa e extensão. Como bolsista, ministrei oficinas de R e minicursos de Análise Exploratória de Dados com Python direcionados à comunidade acadêmica, além de pesquisa acadêmica sobre Análise de Sobrevivência.
-
-Sou um grande entusiasta da estatística, tanto da parte teórica, quanto da parte prática. Além das disciplinas da graduação, como probabilidade, inferência e regressão, estou me dedicando à estudar e me aperfeiçoar em ferramentas como Planilhas Eletrônicas, SQL, Power BI, Python e R.
-##
 [Meu Currículo](https://flowcv.com/resume/spn0oq9s3o)
 
 [Rpubs](https://rpubs.com/romulofreits)
