@@ -35,7 +35,6 @@ Sou um grande entusiasta da estatística, tanto da parte teórica, quanto da par
 * Modelagem Estatística
 * Análise de Sobrevivência
 * Estatística Computacional
-* Visualização de Dados
 * Ciência de Dados
 
 
