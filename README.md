@@ -1,8 +1,6 @@
 # Olá, me chamo Romulo Freitas👋
 
-Durante dois semestres tive a felicidade de ser membro da empresa júnior (GAUSS) do curso de Estatística da UFC. Nesse período consegui desenvolver diversas habilidades, como comunicação, trabalho em equipe, capacidades analíticas, entre outras. Além disso, participei de consultorias estatísticas e de projetos nos quais pude colocar em prática os meus conhecimentos adquiridos na graduação. 
-
-Atualmente, sou bolsista do Programa de Educação Tutorial [(PET) Estatística UFC](https://sites.google.com/view/petestatisticaufc/), o qual é centrado em ensino, pesquisa e extensão. Como bolsista, ministrei oficinas de R e minicursos de Análise Exploratória de Dados com Python direcionados à comunidade acadêmica, além de pesquisa acadêmica sobre Análise de Sobrevivência.
+Cursando Bacharelado em Estatística (5 período) pela Universidade Federal do Ceará. Atualmente atuo como Estagiário em Data & Analytics no Hub de Saúde (Clinic Farma) na rede de Farmácias Pague Menos e Extrafarma. Sou um profissional com perfil voltado a resultados, desafios e aprendizado constante. Durante minha jornada acadêmica participei de grupos e projetos, sendo eles: Gauss Empresa Júnior de Estatística e o Programa de Educação Tutorial (PET) Estatística, os quais contribuíram com meu desenvolvimento pessoal, acadêmico e profissional.
 
 ##
 <div> 
