@@ -1,7 +1,5 @@
 # Olá, me chamo Romulo Freitas👋
 
-Cursando Bacharelado em Estatística (5 período) pela Universidade Federal do Ceará. Atualmente atuo como Estagiário em Data & Analytics no Hub de Saúde (Clinic Farma) na rede de Farmácias Pague Menos e Extrafarma. Sou um profissional com perfil voltado a resultados, desafios e aprendizado constante. Durante minha jornada acadêmica participei de grupos e projetos, sendo eles: Gauss Empresa Júnior de Estatística e o Programa de Educação Tutorial (PET) Estatística, os quais contribuíram com meu desenvolvimento pessoal, acadêmico e profissional.
-
 ##
 <div> 
   <a href="https://www.youtube.com/channel/UCJIcup-gkqveGngIWsAOQIg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
