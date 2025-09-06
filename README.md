@@ -22,10 +22,11 @@
 
 ## 🌐 Áreas de interesse
 
-* Inferência Estatística
-* Modelagem Estatística
+* Aprendizado Estatístico
 * Análise de Sobrevivência
 * Estatística Computacional
+* Inferência Estatística
+* Inferência Causal
 * Ciência de Dados
 
 
